@@ -1,13 +1,38 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
-Hit enter TWICE to create a new line.
+## W1
+
+### Activity 1
+One piece of advice is to not procrastinate!
+
+More advice:
+Read the pre-learning slides
+Use out of class tools (YouTube / Unity documents)
+Take advantage of support when in need of assistance: peers, LAs, Office hours and discord
+Ask questions
+Learn how to use the inspector
+Create map concepts 
+make sure your itch links work for the love of god
 
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
+### Activity 2
+Q1: x = 10
 
+Q2: x = 2
 
-Remove all placeholder text in order to get full credit for README file formatting.
+Q3: The codes prints "hello world" to the console every frame.
+
+Q4: ??? should be replaced with Monobehaviour
+
+Q5: These lines of code print "x = 10" to the console.
+
+Q6: The highlighted lines are arguments and parameters and they input for a method.
+
+Q7: The _playerTransform variable is instantiated but never used and Translate is being used on the Transform static class
+
+Q8: Transform.Translate should be replaced with _playerTransform.Translate.
+
+### Activity 3
+
+https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0
