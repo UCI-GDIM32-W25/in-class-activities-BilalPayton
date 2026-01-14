@@ -36,3 +36,11 @@ More advice:
 ### Activity 3
 
 https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0
+
+## W2
+
+### Activity 1
+
+### Activity 2
+
+[MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-BilalPayton/commit/aec65a0ef7fcfa2653f88d312ba743da46929dbc)
