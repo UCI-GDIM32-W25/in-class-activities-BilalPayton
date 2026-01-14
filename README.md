@@ -36,3 +36,10 @@ More advice:
 ### Activity 3
 
 https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0
+
+
+## W2
+
+### Activity 1
+
+<img width="4032" height="3024" alt="daimage" src="https://github.com/user-attachments/assets/bf51602e-006a-461f-b1f1-4e757f4df699" />
