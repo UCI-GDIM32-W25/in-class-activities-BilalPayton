@@ -37,10 +37,23 @@ More advice:
 
 https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 02d66162b3474023da18f9f2e763d633ba599008
 ## W2
 
 ### Activity 1
 
+<<<<<<< HEAD
 ### Activity 2
 
 [MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-BilalPayton/commit/aec65a0ef7fcfa2653f88d312ba743da46929dbc)
+=======
+<img width="4032" height="3024" alt="daimage" src="https://github.com/user-attachments/assets/bf51602e-006a-461f-b1f1-4e757f4df699" />
+
+### Activity 2
+
+[MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-BilalPayton/commit/aec65a0ef7fcfa2653f88d312ba743da46929dbc)
+=======
+>>>>>>> 02d66162b3474023da18f9f2e763d633ba599008
