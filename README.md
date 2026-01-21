@@ -44,7 +44,7 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 
 ## W3
 
-### Activity 0
+### Activity 0-2
 Laura Liu
 
 ### Activity 3
