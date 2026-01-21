@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+<img width="4032" height="3024" alt="IMG_9925" src="https://github.com/user-attachments/assets/51fec97d-6dda-485b-9e91-cdc3eacef685" /># GDIM32 In Class Activities
 
 
 ## W1
@@ -51,4 +51,4 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 Laura Liu
 
 ### Activity 3
-
+<img width="4032" height="3024" alt="IMG_9925" src="https://github.com/user-attachments/assets/d5751f2c-72bd-49a9-a27d-a86597f9cba3" />
