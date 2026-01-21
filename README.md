@@ -44,3 +44,11 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 
 ### Activity 2
 [MG2 Commit](43aed4da89cfc50b0d6bccc929b7ef419108d000)
+
+## W3
+
+### Activity 0
+Laura Liu
+
+### Activity 3
+

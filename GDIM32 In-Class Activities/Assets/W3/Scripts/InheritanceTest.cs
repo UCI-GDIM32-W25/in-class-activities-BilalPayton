@@ -1,4 +1,3 @@
-/*
 using UnityEngine;
 
 public class InheritanceTest : MonoBehaviour
@@ -32,14 +31,14 @@ public class Npc
 }
 
 // CHANGE THINGS IN VILLAGER...
-public class Villager
+public class Villager : Npc
 {
+	public override void Talk(string playerName) { Debug.Log("Hi! I'm an NPC.");  }
 	
 }
 
 // CHANGE THINGS IN ENEMY...
-public class Enemy
+public class Enemy : Npc
 {
-	
+	public override void Talk(string PlayerName) { Debug.Log("I'm an enemy mwahahahahahahah!");  }
 }
-*/
