@@ -36,3 +36,11 @@ More advice:
 ### Activity 3
 
 https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0
+
+## W2
+
+### Activity 1
+<img width="4032" height="3024" alt="daimage" src="https://github.com/user-attachments/assets/94605602-3c8f-42fe-b576-8559d56fcfaa" />
+
+### Activity 2
+[MG2 Commit](43aed4da89cfc50b0d6bccc929b7ef419108d000)
