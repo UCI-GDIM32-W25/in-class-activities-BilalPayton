@@ -1,6 +1,3 @@
-<img width="4032" height="3024" alt="IMG_9925" src="https://github.com/user-attachments/assets/51fec97d-6dda-485b-9e91-cdc3eacef685" /># GDIM32 In Class Activities
-
-
 ## W1
 
 ### Activity 1
