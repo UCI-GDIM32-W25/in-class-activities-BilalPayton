@@ -49,3 +49,12 @@ Laura Liu
 
 ### Activity 3
 <img width="4032" height="3024" alt="IMG_9925" src="https://github.com/user-attachments/assets/d5751f2c-72bd-49a9-a27d-a86597f9cba3" />
+
+## W4
+
+### Activity 0
+Laura Lia, Alejandra Perez
+
+### Activity 1
+When you run the game while adding multiple Locator GameObjects, the additional GameObjects have their
+script components destroyed so only one Locator exists in the scene.
