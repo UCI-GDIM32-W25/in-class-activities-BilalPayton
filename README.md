@@ -58,3 +58,6 @@ Laura Lia, Alejandra Perez
 ### Activity 1
 When you run the game while adding multiple Locator GameObjects, the additional GameObjects have their
 script components destroyed so only one Locator exists in the scene.
+
+## Activity 2
+<img width="3060" height="2588" alt="IMG_9943" src="https://github.com/user-attachments/assets/51edc4fe-6aa3-461e-8ce8-3f67904ea98d" />
