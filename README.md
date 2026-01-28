@@ -63,4 +63,4 @@ script components destroyed so only one Locator exists in the scene.
 <img width="3060" height="2588" alt="IMG_9943" src="https://github.com/user-attachments/assets/51edc4fe-6aa3-461e-8ce8-3f67904ea98d" />
 
 ### Activity 3
-[MG4 Commit](437fb2971d0178b3e06300d8766fc2fd295d2a0b)
+[MG4 Commit](https://github.com/BilalPayton/HW4/commit/437fb2971d0178b3e06300d8766fc2fd295d2a0b)
