@@ -143,4 +143,5 @@ while and using breakpoints helps save time.
 
 ### Activity 2
 Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
 [Final Project Proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?tab=t.0)
