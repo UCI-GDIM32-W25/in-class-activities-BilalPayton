@@ -124,3 +124,23 @@ NPCS can also be ScriptableObjects
 ### Activity 4
 Attendance: Bilal Payton, Bella Sloan, Laura Lia
 [Final Project Proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?tab=t.0)
+
+## W6
+
+### Activity 1
+Gizmos: I think Gizmos is useful for debugging collision and velocity problems. This could be especially
+helpful for our project to make sure the collision between the player and enemies works and it can invoke
+events to other systems based on said collision.
+
+Profiler: The profiler will be helpful for any optimization problems in our final project if any. If we have
+any optimization problems we can use the profiler to check for spikes in frame rate and find in what methods
+they occur in.
+
+Breakpoints: Breakpoints will be useful in our final project for finding errors in our code that we may
+not know where to look and this is very important because our final project will have a lot of code to
+look through. Looking through all the code for the errors and then manually debugging them would take a 
+while and using breakpoints helps save time.
+
+### Activity 2
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+[Final Project Proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?tab=t.0)
