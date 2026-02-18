@@ -159,3 +159,5 @@ the arrows reach, in which the enemy will have it's state updated back to wander
 Bilal Payton, Bella Sloan, Laura Liu
 
 ### Activity 3
+
+<img width="2360" height="1640" alt="Final Project Breakdown (The Goated)" src="https://github.com/user-attachments/assets/12b66b4b-0c2d-4b8d-b3fa-e8ce42137dfc" />
