@@ -145,3 +145,17 @@ while and using breakpoints helps save time.
 Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
 [Final Project Proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?tab=t.0)
+
+## W7
+
+### Activity 1
+Raycasting allows us to fire an arrow from an origin point in a certain direction. We can use this
+to trigger NPC states depending on what the allow hits. For example, we can add a raycast that has an
+origin point at an enemy to reperesent it's line of sight and if it hits the player, we can update their
+state from a wandering state to a pursuing state where they will chase the player until they are out of
+the arrows reach, in which the enemy will have it's state updated back to wandering.
+
+### Activity 2
+Bilal Payton, Bella Sloan, Laura Liu
+
+### Activity 3
