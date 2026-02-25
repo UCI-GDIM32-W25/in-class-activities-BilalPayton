@@ -171,3 +171,33 @@ Bilal Payton, Bella Sloan, Laura Liu
 
 I imported placeholder background music that plays when the game starts. This will be switched out later
 for scary music to match the horror theme our game has.
+
+## W8
+
+### Activity 1
+Post-processing effects are shaders that affect the look of your entire screen. Post-processing effects
+need to be compatible with your own rendering pipeline to work properly. Check IsGlobal on the Post-process
+volume component. Set Post-processing GameObject to have the Post-processing layer.
+
+### Activity 2
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
+### Activity 3
+Playtest Notes:
+- Fix character sliding issue
+
+- Mouse cursor sensitivity is too high, but like only on some people's laptops for some reason.
+
+- Camera movement/player turning around is kinda janky and laggy --> missing Time.deltaTime so maybe that's the reason.
+
+- Get cursor locked to screen
+
+### Activity 4
+My tasks are to allow the player to interact with items, add them to their inventory, and get in
+2 unique animations in the game by the final check in.
+
+### Activity 5
+[Final Project Progress Commit](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commit/640fceb657749397fe4412b19550349aead1da7d)
+I started working on making items interactable. I've created a Beans GameObject/Prefab and also a
+ScriptableObject script to store its data such as an items name, description, icon, etc. I've also
+added a collider to the Beans prefab to try and get the onMouseOver method to work on it.
