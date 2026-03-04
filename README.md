@@ -201,3 +201,26 @@ My tasks are to allow the player to interact with items, add them to their inven
 I started working on making items interactable. I've created a Beans GameObject/Prefab and also a
 ScriptableObject script to store its data such as an items name, description, icon, etc. I've also
 added a collider to the Beans prefab to try and get the onMouseOver method to work on it.
+
+## W9
+
+### Activity 1
+Branching dialogue notes:
+- Gives further dialogue options depending what the player chooses
+- Branching dialogue options kept as data through ScriptableObjects becuase dialogue isn't always present in the scene
+- Use dialogue controller for multiple npcs with different dialogue
+- NPCs should have member variables for player dialogue choices and the npcs dialogue that can be tuned in the inspector
+### Activity 2
+Bilal Payton, Bella Sloan, Laura Liu
+### Activity 3
+Playtesting feedback: - player spin around...lock the y rotation or smth on the player prefab (already fixed). - Lower sensitivity (already fixed) - finish adding colliders to buildings (fixed) - add some dialogue ui that tells the player how to move around. - add sprint feature
+### Activity 4
+We are about halfway done with our project and think we can finish it by the deadline and this is where we are
+supposed to be at this time. This conveys that our project scope scales well and gives us a reasonable amount
+of time to complete it.
+### Activity 5
+[Final Project Commit](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commit/27ab68ba08a6d5a394bb628a5cb062d3cfda5f11)
+Originally I had two separate Zombie Male prefabs to showcase both the zombie idle and run animations for the check in, so I
+combined both animations into one Zombie Male prefab after the playtesting for our game was finished. I also created a ScriptableObject
+named NPCDialogue and created a few of them to start the branching dialogue process for our NPC Joe's lines, the player's options in how
+they respond to his lines, and the replies Joe gives to the player depending which option they choose.
