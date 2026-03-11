@@ -224,3 +224,26 @@ Originally I had two separate Zombie Male prefabs to showcase both the zombie id
 combined both animations into one Zombie Male prefab after the playtesting for our game was finished. I also created a ScriptableObject
 named NPCDialogue and created a few of them to start the branching dialogue process for our NPC Joe's lines, the player's options in how
 they respond to his lines, and the replies Joe gives to the player depending which option they choose.
+
+## W10
+
+### Activity 1
+Bilal Payton, Bella Sloan, Laura Liu
+### Activity 2
+Playtest feedback: 
+- default speed too slow 
+- sprint too fast 
+- view is a bit too dark 
+- when you walk too far away from the buildings the ui just dissapears
+- mouse sensitivity still too high
+### Activity 3
+My task is to continue finishing the branching dialogue and implement the audio for the game.
+
+We are getting close to finishing our project currently and we are supposed to be 
+at this stage so this shows that our project scope is good.
+
+### Activity 4
+[Final Project Progress Commit](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commit/66a278b2c72fecc3122dfa086da40e778fd8cc9f)
+
+I fixed the problem of the player not being able to click on their response options after talking
+to an NPC, and gave Joe some new dialogue that will start the quest to find his beans.
